@@ -11,3 +11,4 @@ To install the Hanif package, use the following commands:
 ```bash
 wget https://github.com/yourusername/hanif/raw/main/hanif_pkg.deb
 dpkg -i hanif_pkg.deb
+hanif --length 16 --count 1000
